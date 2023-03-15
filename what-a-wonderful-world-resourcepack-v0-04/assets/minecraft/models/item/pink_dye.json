@@ -1,0 +1,90 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pink_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/left2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/right2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/top2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/booba"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:stands/paisley_park/rig_model/lowerhalf"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"04d90c15-861c-9fdf-7c98-e2de69729bc4": {
+				"name": "paisley_park",
+				"usedIDs": [
+					[1, 12]
+				]
+			}
+		}
+	}
+}

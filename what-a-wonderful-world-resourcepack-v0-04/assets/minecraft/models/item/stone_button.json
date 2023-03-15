@@ -1,0 +1,143 @@
+{
+ "parent": "minecraft:block/stone_button_inventory",
+ "textures": {
+  "layer0": "minecraft:block/stone_button_inventory"
+ },
+
+ "overrides": [
+    { "predicate": {"custom_model_data": 115000001}, "model": "stands/star_platinum/arm"},
+    { "predicate": {"custom_model_data": 115001010}, "model": "stands/star_platinum/star_finger/1"},
+    { "predicate": {"custom_model_data": 115001020}, "model": "stands/star_platinum/star_finger/2"},
+    { "predicate": {"custom_model_data": 115001030}, "model": "stands/star_platinum/star_finger/3"},
+    { "predicate": {"custom_model_data": 115001040}, "model": "stands/star_platinum/star_finger/4"},
+    { "predicate": {"custom_model_data": 115001050}, "model": "stands/star_platinum/star_finger/5"},
+    { "predicate": {"custom_model_data": 115002010}, "model": "stands/star_platinum/barrage/1"},
+    { "predicate": {"custom_model_data": 115002020}, "model": "stands/star_platinum/barrage/2"},
+    { "predicate": {"custom_model_data": 115002030}, "model": "stands/star_platinum/barrage/3"},
+    { "predicate": {"custom_model_data": 115003010}, "model": "stands/star_platinum/barrage/one_hand_1"},
+    { "predicate": {"custom_model_data": 115003020}, "model": "stands/star_platinum/barrage/one_hand_2"},
+    { "predicate": {"custom_model_data": 115003030}, "model": "stands/star_platinum/barrage/one_hand_3"},
+
+    { "predicate": {"custom_model_data": 120000001}, "model": "stands/the_world/arm"},
+    { "predicate": {"custom_model_data": 120000010}, "model": "stands/the_world/tanks"},
+    { "predicate": {"custom_model_data": 120000020}, "model": "stands/the_world/knives"},
+    { "predicate": {"custom_model_data": 120000025}, "model": "stands/the_world/donut_start"},
+    { "predicate": {"custom_model_data": 120000030}, "model": "stands/the_world/donut"},
+    { "predicate": {"custom_model_data": 120002010}, "model": "stands/the_world/barrage/1"},
+    { "predicate": {"custom_model_data": 120002020}, "model": "stands/the_world/barrage/2"},
+    { "predicate": {"custom_model_data": 120002030}, "model": "stands/the_world/barrage/3"},
+    { "predicate": {"custom_model_data": 120003000}, "model": "stands/the_world/sign"},
+    { "predicate": {"custom_model_data": 120004000}, "model": "stands/the_world/road_roller"},
+    
+    { "predicate": {"custom_model_data": 130004000}, "model": "stands/grateful_dead/idle"},
+    { "predicate": {"custom_model_data": 130005000}, "model": "stands/grateful_dead/walk1"},
+    { "predicate": {"custom_model_data": 130006000}, "model": "stands/grateful_dead/walk2"},
+
+
+
+    { "predicate": {"custom_model_data": 150000000}, "model": "stands/wonder_of_u/head"},
+    { "predicate": {"custom_model_data": 150000100}, "model": "stands/wonder_of_u/right_hand"},
+    { "predicate": {"custom_model_data": 150000200}, "model": "stands/wonder_of_u/empty_hand"},
+
+    { "predicate": {"custom_model_data": 160000000}, "model": "stands/kingcrimson/head"},
+    { "predicate": {"custom_model_data": 160000100}, "model": "stands/kingcrimson/arm"},
+
+    { "predicate": {"custom_model_data": 1030000100}, "model": "stands/custom/breathing_style/insect/body"},
+    { "predicate": {"custom_model_data": 1030000200}, "model": "stands/custom/breathing_style/insect/head"},
+    { "predicate": {"custom_model_data": 1030000300}, "model": "stands/custom/breathing_style/insect/left_hand_with_nichirin_in_sheath"},
+    { "predicate": {"custom_model_data": 1030000400}, "model": "stands/custom/breathing_style/insect/left_hand_with_sheath"},
+    { "predicate": {"custom_model_data": 1030000500}, "model": "stands/custom/breathing_style/insect/left_hand"},
+    { "predicate": {"custom_model_data": 1030000600}, "model": "stands/custom/breathing_style/insect/left_leg"},
+    { "predicate": {"custom_model_data": 1030000700}, "model": "stands/custom/breathing_style/insect/right_hand_with_nichirin"},
+    { "predicate": {"custom_model_data": 1030000800}, "model": "stands/custom/breathing_style/insect/right_hand"},
+    { "predicate": {"custom_model_data": 1030000900}, "model": "stands/custom/breathing_style/insect/right_leg"},
+    { "predicate": {"custom_model_data": 1030001000}, "model": "stands/custom/breathing_style/insect/animated_butterfly"},
+    { "predicate": {"custom_model_data": 1030001100}, "model": "stands/custom/breathing_style/insect/kick_barrage_animation"},
+    { "predicate": {"custom_model_data": 1030001200}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_1"},
+    { "predicate": {"custom_model_data": 1030001300}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_2"},
+    { "predicate": {"custom_model_data": 1030001400}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_3"},
+    { "predicate": {"custom_model_data": 1030001500}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_4"},
+    { "predicate": {"custom_model_data": 1030001600}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_5"},
+    { "predicate": {"custom_model_data": 1030001700}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_6"},
+    { "predicate": {"custom_model_data": 1030001800}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_7"},
+    { "predicate": {"custom_model_data": 1030001900}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_8"},
+    { "predicate": {"custom_model_data": 1030002000}, "model": "stands/custom/breathing_style/insect/shinobu_kick_hard_charge_up_extra"},
+
+    { "predicate": {"custom_model_data": 1090010000}, "model": "stands/white_snake/stand_disc"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ]
+
+ 
+}

@@ -1,0 +1,41 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"1": "minecraft:stand/paisley_park/texture"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [3.5, 12.25, 3.75, 12.5], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [3.5, 12.25, 3.75, 12.5], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [2, 11.75, 3.5, 13.25], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [3.5, 12.25, 3.75, 12.5], "rotation": 180, "texture": "#1"},
+				"up": {"uv": [3.5, 12.25, 3.75, 12.5], "texture": "#1"},
+				"down": {"uv": [3.5, 12.25, 3.75, 12.5], "texture": "#1"}
+			},
+			"to": [9.16041, 4.38851, 8.4225],
+			"from": [8.48541, 3.70851, 8.3725],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7.97919, 3.32251, 7.8675]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 5, 2, 6.5], "texture": "#1"},
+				"east": {"uv": [0.25, 5, 1.25, 6.5], "texture": "#1"},
+				"south": {"uv": [3, 5, 4, 6.5], "texture": "#1"},
+				"west": {"uv": [2, 5, 3, 6.5], "texture": "#1"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#1"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#1"}
+			},
+			"to": [8.69757, 5.16753, 8.3425],
+			"from": [7.17757, 2.76753, 6.8625],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.97919, 3.32251, 7.8675]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "stand/custom/breathing_style/insect/skin",
+		"particle": "stand/custom/breathing_style/insect/texture"
+	},
+	"elements": [
+		{
+			"name": "right_arm",
+			"from": [6, -6.92244, 6.08131],
+			"to": [10, -2.92244, 18.08131],
+			"rotation": {"angle": 0, "axis": "x", "origin": [13.9975, 2.07756, 18.08131]},
+			"faces": {
+				"north": {"uv": [13, 4, 12, 5], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [10, 5, 11, 8], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [12, 5, 11, 4], "texture": "#1"},
+				"west": {"uv": [12, 5, 13, 8], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [11, 5, 12, 8], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [12.5, 5, 13.5, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "right_arm_2nd_layer",
+			"from": [5.5, -7.42244, 5.58131],
+			"to": [10.49, -2.42244, 18.58131],
+			"rotation": {"angle": 0, "axis": "x", "origin": [13.9975, 2.07756, 18.08131]},
+			"faces": {
+				"north": {"uv": [13, 8, 12, 9], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [10, 9, 11, 12], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [12, 9, 11, 8], "texture": "#1"},
+				"west": {"uv": [12, 9, 13, 12], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [11, 9, 12, 12], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [13, 9, 14, 12], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 11, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-177, -180, 0],
+			"translation": [-1.5, -13.75, 1],
+			"scale": [1.1, 1, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7, 1.87, -5.93],
+			"translation": [28.5, 14.25, -28.25],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [135, 18, 0],
+			"translation": [5.25, -9.75, 7.25],
+			"scale": [1.3, 1, 1.3]
+		},
+		"ground": {
+			"rotation": [0, 0, -90],
+			"translation": [0, 0.5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"gui": {
+			"rotation": [-56, -48, -90],
+			"translation": [2, 1, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"head": {
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -1.5],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "steve",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

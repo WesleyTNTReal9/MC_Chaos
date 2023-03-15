@@ -1,0 +1,74 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+     "layer0": "minecraft:item/fishing_rod"
+    },
+   
+    "overrides": [
+       { "predicate": {"custom_model_data": 130000010}, "model": "stands/grateful_dead/beach_boy"},
+       { "predicate": {"custom_model_data": 130000100}, "model": "stands/grateful_dead/beach_boy_no_hook"},
+       {
+         "predicate": {
+             "cast": 1
+         },
+         "model": "item/fishing_rod_cast"
+     },
+     {
+      "predicate": {"cast": 1,"custom_model_data": 130000010},"model": "stands/grateful_dead/beach_boy_no_hook"}
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    ]
+   
+    
+   }

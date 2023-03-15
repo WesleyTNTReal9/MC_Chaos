@@ -1,0 +1,28 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"1": "minecraft:stand/paisley_park/texture"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [1, 6.275, 2, 8.025], "texture": "#1"},
+				"east": {"uv": [0.25, 6.275, 1.25, 8.025], "texture": "#1"},
+				"south": {"uv": [3, 6.25, 4, 8], "texture": "#1"},
+				"west": {"uv": [2, 6.25, 3, 8], "texture": "#1"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#1"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#1"}
+			},
+			"to": [8.72, 5, 8.74],
+			"from": [7.28, 2.6, 7.26],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.04162, 5.55498, 8.265]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

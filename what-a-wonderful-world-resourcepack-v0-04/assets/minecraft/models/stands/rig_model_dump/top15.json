@@ -1,0 +1,28 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:stand/soft_and_wet/texture"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [6.25, 13.025, 5.25, 14.5], "texture": "#0"},
+				"east": {"uv": [6.25, 13.025, 5.25, 14.5], "texture": "#0"},
+				"south": {"uv": [6.25, 13.025, 5.25, 14.5], "texture": "#0"},
+				"west": {"uv": [6.25, 13.025, 5.25, 14.5], "texture": "#0"},
+				"up": {"uv": [5.25, 14.5, 6.25, 13.025], "texture": "#0"},
+				"down": {"uv": [5.25, 14.5, 6.25, 13.025], "texture": "#0"}
+			},
+			"to": [1.67538, -1.82585, 9.731],
+			"from": [-0.07962, -4.54585, 7.731],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.59788, -1.98585, 8.731]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

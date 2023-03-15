@@ -1,0 +1,71 @@
+{
+    "parent": "minecraft:block/command_block",
+    "textures": {
+     "layer0": "minecraft:block/command_block"
+    },
+   
+    "overrides": [
+       { "predicate": {"custom_model_data": 1111111}, "model": "jojo/items/virus"}
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    ]
+   
+    
+   }

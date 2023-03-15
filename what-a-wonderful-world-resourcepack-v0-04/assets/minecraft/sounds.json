@@ -1,0 +1,138 @@
+{
+    "item.arrow_use":{"sounds": ["jojo/item/arrow_use"]},
+
+
+
+    "vampire.space_ripper_stingy_eyes":{"sounds": ["jojo/vampire/space_laser_eyes"]},
+
+    "hamon.breathing":{"sounds": ["jojo/hamon/breathing"]},
+    "hamon.sunlight_yellow_overdrive":{"sounds": ["jojo/hamon/sunlight_yellow_overdrive"]},
+    "hamon.turquoise_blue_overdrive":{"sounds": ["jojo/hamon/turquoise_blue_overdrive"]},
+    "hamon.zoom_punch":{"sounds": ["jojo/hamon/zoom_punch"]},
+
+    "star_platinum.summon":{"sounds": ["jojo/star_platinum/summon"]},
+    "star_platinum.summon1":{"sounds": ["jojo/star_platinum/summon1"]},
+    "star_platinum.barrage1":{"sounds": ["jojo/star_platinum/barrage1"]},
+    "star_platinum.short_barrage":{"sounds": ["jojo/star_platinum/short_barrage"]},
+    "star_platinum.heavy_punch1":{"sounds": ["jojo/star_platinum/heavy_punch1"]},
+    "star_platinum.heavy_shout":{"sounds": ["jojo/star_platinum/heavy_shout"]},
+    "star_platinum.punch1":{"sounds": ["jojo/star_platinum/punch1"]},
+    "star_platinum.punch2":{"sounds": ["jojo/star_platinum/punch2"]},
+    "star_platinum.star_finger":{"sounds": ["jojo/star_platinum/star_finger"]},
+    "star_platinum.unsummon":{"sounds": ["jojo/star_platinum/unsummon"]},
+    "star_platinum.i_stopped_time":{"sounds": ["jojo/star_platinum/i_stopped_time"]},
+    "star_platinum.time_resume":{"sounds": ["jojo/star_platinum/time_resume"]},
+    "star_platinum.stop_time_full":{"sounds": ["jojo/star_platinum/stop_time_full"]},
+    "star_platinum.suck":{"sounds": ["jojo/star_platinum/suck"]},
+    "star_platinum.ora0":{"sounds": ["jojo/star_platinum/ora0"]},
+    "star_platinum.ora1":{"sounds": ["jojo/star_platinum/ora1"]},
+    "star_platinum.ora2":{"sounds": ["jojo/star_platinum/ora2"]},
+    "star_platinum.do_you_understand":{"sounds": ["jojo/star_platinum/do_you_understand"]},
+    "star_platinum.steely_dan_beatdown":{"sounds": ["jojo/star_platinum/steely_dan_beatdown"]},
+
+    "the_world.summon":{"sounds": ["jojo/the_world/summon"]},
+    "the_world.unsummon":{"sounds": ["jojo/the_world/unsummon"]},
+    "the_world.summon_effect":{"sounds": ["jojo/the_world/summon_effect"]},
+    "the_world.hmph":{"sounds": ["jojo/the_world/hmph"]},
+    "the_world.laugh":{"sounds": ["jojo/the_world/laugh"]},
+    "the_world.lets_start":{"sounds": ["jojo/the_world/lets_start"]},
+    "the_world.punch1":{"sounds": ["jojo/the_world/punch1"]},
+    "the_world.punch2":{"sounds": ["jojo/the_world/punch2","jojo/the_world/punch1"]},
+    "the_world.this_is_the_greatest_high":{"sounds": ["jojo/the_world/this_is_the_greatest_high"]},
+    "the_world.whats_wrong":{"sounds": ["jojo/the_world/whats_wrong"]},
+    "the_world.woosh":{"sounds": ["jojo/the_world/woosh"]},
+    "the_world.shine":{"sounds": ["jojo/the_world/shine"]},
+    "the_world.wry":{"sounds": ["jojo/the_world/wry"]},
+    "the_world.barrage":{"sounds": ["jojo/the_world/barrage"]},
+    "the_world.kisama":{"sounds": ["jojo/the_world/kisama"]},
+    "the_world.donut":{"sounds": ["jojo/the_world/donut"]},
+    "the_world.knife_throw":{"sounds": ["jojo/the_world/knife_throw"]},
+    "the_world.knife_hit":{"sounds": ["jojo/the_world/knife_hit"]},
+    "the_world.quick_time_stop":{"sounds": ["jojo/the_world/quick_time_stop","jojo/the_world/quick_time_stop1"]},
+    "the_world.time_stop":{"sounds": ["jojo/the_world/time_stop"]},
+    "the_world.it_ends_here":{"sounds": ["jojo/the_world/it_ends_here"]},
+    "the_world.road_roller":{"sounds": ["jojo/the_world/road_roller"]},
+    "the_world.noroi_noroi":{"sounds": ["jojo/the_world/noroi_noroi"]},
+
+    "softandwet.summon":{"sounds": ["jojo/softandwet/summon"]},
+
+    "paisley_park.summon":{"sounds": ["jojo/paisley_park/summon"]},
+    
+
+    "beach_boy.summon":{"sounds": ["jojo/beach_boy/summon"]},
+    "beach_boy.hook_default":{"sounds": ["jojo/beach_boy/hook_default"]},
+    "beach_boy.hook_back":{"sounds": ["jojo/beach_boy/hook_back"]},
+
+    "wonder_of_u.summon":{"sounds": ["jojo/wonder_of_u/summon"]},
+    
+    "king_crimson.summon":{"sounds": ["jojo/kingcrimson/summon"]},
+    "king_crimson.barrage":{"sounds": ["jojo/kingcrimson/barrage"]},
+    "king_crimson.blood_toss":{"sounds": ["jojo/kingcrimson/blood_toss"]},
+    "king_crimson.chop":{"sounds": ["jojo/kingcrimson/chop"]},
+    "king_crimson.donut":{"sounds": ["jojo/kingcrimson/donut"]},
+    "king_crimson.epitaph":{"sounds": ["jojo/kingcrimson/epitaph"]},
+    "king_crimson.skip":{"sounds": ["jojo/kingcrimson/skip"]},
+    "king_crimson.grab":{"sounds": ["jojo/kingcrimson/grab"]},
+    "king_crimson.you_re_finished":{"sounds": ["jojo/kingcrimson/you_re_finished"]},
+    "king_crimson.choke2":{"sounds": ["jojo/kingcrimson/choke2"]},
+    "king_crimson.time_erase":{"sounds": ["jojo/kingcrimson/time_erase"]},
+    "king_crimson.time_skip":{"sounds": ["jojo/kingcrimson/time_skip"]},
+    "king_crimson.unsummon":{"sounds": ["jojo/kingcrimson/unsummon"]},
+    "king_crimson.what_you_just_saw_and_touched":{"sounds": ["jojo/kingcrimson/what_you_just_saw_and_touched"]},
+    "king_crimson.requiem.apcbf":{"sounds": ["jojo/kingcrimson/requiem/apcbf"]},
+    "king_crimson.requiem.path_spikes":{"sounds": ["jojo/kingcrimson/requiem/path_spikes"]},
+
+
+
+
+    "ghost_rider_in_the_sky.summon":{"sounds": ["jojo/ghost_rider_in_the_sky/summon"]},
+
+
+    "gura.quake_punch":{"sounds": ["jojo/custom/devil_fruit/gura/quake_punch"]},
+
+    "haki.haoushoku.domination":{"sounds": ["jojo/custom/haki/haoushoku/domination"]},
+
+    "cursed_technique.boogiee_woogie.clap":{"sounds": ["jojo/custom/cursed_technique/boogie_woogie/clap"]},
+
+    "breathing_style.insect.insect_breathing":{"sounds": ["jojo/custom/breathing_type/insect/insect_breathing"]},
+    "breathing_style.insect.sheath":{"sounds": ["jojo/custom/breathing_type/insect/sheath"]},
+    "breathing_style.insect.unsheath":{"sounds": ["jojo/custom/breathing_type/insect/unsheath"]},
+    "breathing_style.insect.kick_impact":{"sounds": ["jojo/custom/breathing_type/insect/kick_impact"]},
+    "breathing_style.insect.kick_air_barrage":{"sounds": ["jojo/custom/breathing_type/insect/kick_air_barrage"]},
+    "breathing_style.insect.kick_impact_1":{"sounds": ["jojo/custom/breathing_type/insect/kick_impact_1"]},
+    "breathing_style.insect.kick_impact_2":{"sounds": ["jojo/custom/breathing_type/insect/kick_impact_2"]},
+    "breathing_style.insect.kick_impact_3":{"sounds": ["jojo/custom/breathing_type/insect/kick_impact_3"]},
+    "breathing_style.insect.kick_impact_4":{"sounds": ["jojo/custom/breathing_type/insect/kick_impact_4"]},
+    "breathing_style.insect.kick_hard":{"sounds": ["jojo/custom/breathing_type/insect/kick_hard"]},
+    "breathing_style.insect.kick_hard1":{"sounds": ["jojo/custom/breathing_type/insect/kick_hard1"]},
+    "breathing_style.insect.kick_hard_impact1":{"sounds": ["jojo/custom/breathing_type/insect/kick_hard_impact1"]},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "shared_sfxs.time_resume":{"sounds": ["jojo/shared_sfxs/time_resume"]},
+    "shared_sfxs.time_stop":{"sounds": ["jojo/shared_sfxs/time_stop"]},
+    "shared_sfxs.quick_time_stop":{"sounds": ["jojo/shared_sfxs/quick_time_stop"]},
+    "shared_sfxs.time_tick_9":{"sounds": ["jojo/shared_sfxs/time_tick_9"]}
+
+
+
+
+
+
+
+
+
+
+}

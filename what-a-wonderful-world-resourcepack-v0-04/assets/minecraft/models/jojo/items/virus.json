@@ -1,0 +1,120 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "jojo/items/virus",
+		"particle": "jojo/items/virus"
+	},
+	"elements": [
+		{
+			"name": "virus_0",
+			"from": [4, 2, 2],
+			"to": [10, 3, 6],
+			"faces": {
+				"north": {"uv": [10, 2, 4, 3], "texture": "#0"},
+				"east": {"uv": [9, 2, 10, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 5, 10, 6], "texture": "#0"},
+				"west": {"uv": [4, 2, 5, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 2, 10, 6], "texture": "#0"},
+				"down": {"uv": [4, 6, 10, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "virus_1",
+			"from": [10, 2, 4],
+			"to": [12, 3, 8],
+			"faces": {
+				"north": {"uv": [12, 4, 10, 5], "texture": "#0"},
+				"east": {"uv": [11, 4, 12, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 7, 12, 8], "texture": "#0"},
+				"west": {"uv": [10, 4, 11, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 4, 12, 8], "texture": "#0"},
+				"down": {"uv": [10, 8, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "virus_2",
+			"from": [6, 2, 6],
+			"to": [10, 3, 12],
+			"faces": {
+				"north": {"uv": [10, 6, 6, 7], "texture": "#0"},
+				"east": {"uv": [9, 6, 10, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6, 11, 10, 12], "texture": "#0"},
+				"west": {"uv": [6, 6, 7, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6, 6, 10, 12], "texture": "#0"},
+				"down": {"uv": [6, 12, 10, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "virus_3",
+			"from": [4, 2, 8],
+			"to": [6, 3, 12],
+			"faces": {
+				"north": {"uv": [6, 8, 4, 9], "texture": "#0"},
+				"east": {"uv": [5, 8, 6, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 11, 6, 12], "texture": "#0"},
+				"west": {"uv": [4, 8, 5, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 8, 6, 12], "texture": "#0"},
+				"down": {"uv": [4, 12, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "virus_4",
+			"from": [8, 2, 12],
+			"to": [12, 3, 14],
+			"faces": {
+				"north": {"uv": [12, 12, 8, 13], "texture": "#0"},
+				"east": {"uv": [11, 12, 12, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 13, 12, 14], "texture": "#0"},
+				"west": {"uv": [8, 12, 9, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 12, 12, 14], "texture": "#0"},
+				"down": {"uv": [8, 14, 12, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [104, 0, 0],
+			"translation": [0.25, 2.75, 4.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [104, 124, 0],
+			"translation": [0.25, 2.75, 4.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [-90, -143, 0],
+			"translation": [0, 0, -8.25]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"translation": [0, 0, -8.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "virus",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "virus",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

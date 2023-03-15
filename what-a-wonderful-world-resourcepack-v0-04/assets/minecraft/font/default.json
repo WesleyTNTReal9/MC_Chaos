@@ -1,0 +1,139 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/black.png",
+            "ascent": 128,
+            "height": 258,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/gray.png",
+            "ascent": 64,
+            "height": 129,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/white_snake.png",
+            "ascent": 102,
+            "height": 200,
+            "size": 0.5,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/softandwetbubble.png",
+            "ascent": 16,
+            "height": 16,
+            "size": 1,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip2.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip3.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip4.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip5.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip6.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip7.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip8.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip9.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip10.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip11.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip12.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip13.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/time_skip14.png",
+            "ascent": 50,
+            "height": 104,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

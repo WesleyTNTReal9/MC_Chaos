@@ -1,0 +1,91 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+     "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+   
+    "overrides": [
+       { "predicate": {"custom_model_data": 100000000}, "model": "jojo/items/stand_arrow"},
+       { "predicate": {"custom_model_data": 115000001}, "model": "stands/star_platinum/item"},
+       { "predicate": {"custom_model_data": 115000010}, "model": "stands/star_platinum/cooldown"},
+       { "predicate": {"custom_model_data": 125000001}, "model": "stands/the_world/item"},
+       { "predicate": {"custom_model_data": 125000010}, "model": "stands/the_world/cooldown"},
+       { "predicate": {"custom_model_data": 130000010}, "model": "stands/grateful_dead/beach_boy"},
+       { "predicate": {"custom_model_data": 130000100}, "model": "stands/grateful_dead/beach_boy_no_hook"},
+       { "predicate": {"custom_model_data": 135000100}, "model": "stands/kingcrimson/item"},
+       { "predicate": {"custom_model_data": 145000000}, "model": "stands/mr_president/key"},
+
+
+
+       { "predicate": {"custom_model_data": 1015000001}, "model": "stands/ghost_rider_in_the_sky/item"},
+       { "predicate": {"custom_model_data": 1015000100}, "model": "stands/ghost_rider_in_the_sky/cooldown"},
+       { "predicate": {"custom_model_data": 1015000200}, "model": "stands/ghost_rider_in_the_sky/scythe"},
+       { "predicate": {"custom_model_data": 1025000001}, "model": "stands/custom/devil_fruit/gura/murakumogiri"},
+       { "predicate": {"custom_model_data": 1030000001}, "model": "stands/custom/breathing_style/insect/nichirin"},
+       { "predicate": {"custom_model_data": 1030000101}, "model": "stands/custom/breathing_style/insect/nichirin_with_sheath"},
+       { "predicate": {"custom_model_data": 1030000201}, "model": "stands/custom/breathing_style/insect/sheath"},
+       
+       { "predicate": {"custom_model_data": 1090010000}, "model": "stands/white_snake/stand_disc"}
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    ]
+   
+    
+   }

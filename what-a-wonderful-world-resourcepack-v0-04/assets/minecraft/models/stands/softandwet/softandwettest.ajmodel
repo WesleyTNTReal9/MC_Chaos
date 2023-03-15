@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "format_version": "0.0",
+    "creation_time": 1642066173,
+    "model_format": "animated_java/ajmodel",
+    "box_uv": false,
+    "settings": {
+      "animatedJava": {
+        "projectName": "unnamed_project",
+        "exporter": "vanillaStatueExporter",
+        "verbose": true,
+        "rigItem": "minecraft:white_dye",
+        "rigModelsExportFolder": "C:\\Users\\danie\\AppData\\Roaming\\.minecraft\\resourcepacks\\Jojopack (Resource pack)\\assets\\minecraft\\models\\stands\\rig_model_dump",
+        "predicateFilePath": "C:\\Users\\danie\\AppData\\Roaming\\.minecraft\\resourcepacks\\Jojopack (Resource pack)\\assets\\minecraft\\models\\item\\white_dye.json",
+        "transparentTexturePath": ""
+      },
+      "vanillaStatueExporter": {
+        "rootEntityType": "minecraft:marker",
+        "rootEntityNbt": "{}",
+        "markerArmorStands": true,
+        "modelTag": "aj.%projectName",
+        "rootTag": "aj.%projectName.root",
+        "allBonesTag": "aj.%projectName.bone",
+        "boneModelDisplayTag": "aj.%projectName.bone_display",
+        "individualBoneTag": "aj.%projectName.bone.%boneName",
+        "internalScoreboardObjective": "aj.i",
+        "idScoreboardObjective": "aj.id",
+        "exportMode": "vanilla",
+        "mcbFilePath": "",
+        "mcbConfigPath": "",
+        "dataPackPath": "C:\\Users\\danie\\AppData\\Roaming\\.minecraft\\saves\\datapack testing world 1\\datapacks\\Jojo's Bizzare Adventure"
+      },
+      "vanillaAnimationExporter": {
+        "rootEntityType": "minecraft:marker",
+        "rootEntityNbt": "{}",
+        "markerArmorStands": true,
+        "autoDistance": true,
+        "autoDistanceMovementThreshold": "1",
+        "manualDistance": 10,
+        "modelTag": "aj.%projectName",
+        "rootTag": "aj.%projectName.root",
+        "allBonesTag": "aj.%projectName.bone",
+        "boneModelDisplayTag": "aj.%projectName.bone_display",
+        "individualBoneTag": "aj.%projectName.bone.%boneName",
+        "internalScoreboardObjective": "aj.i",
+        "idScoreboardObjective": "aj.id",
+        "frameScoreboardObjective": "aj.frame",
+        "animatingFlagScoreboardObjective": "aj.%projectName.animating",
+        "animationLoopModeScoreboardObjective": "aj.%projectName.%animationName.loopMode",
+        "exportMode": "vanilla",
+        "mcbFilePath": "",
+        "mcbConfigPath": "",
+        "dataPackPath": "C:\\Users\\danie\\AppData\\Roaming\\.minecraft\\saves\\datapack testing world 1\\datapacks\\Jojo's Bizzare Adventure"
+      }
+    },
+    "variants": {
+      "default": {}
+    }
+  },
+  "name": "softandwettest",
+  "geometry_name": "",
+  "visible_box": [
+    1,
+    1,
+    0
+  ],
+  "variable_placeholders": "",
+  "resolution": {
+    "width": 16,
+    "height": 16
+  },
+  "elements": [
+    {
+      "name": "cube",
+      "rescale": false,
+      "locked": false,
+      "from": [
+        -6,
+        0,
+        -6
+      ],
+      "to": [
+        6,
+        11,
+        6
+      ],
+      "autouv": 1,
+      "color": 2,
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            12,
+            11
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            12,
+            11
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            12,
+            11
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            12,
+            11
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            12,
+            12
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            12,
+            12
+          ],
+          "texture": 0
+        }
+      },
+      "uuid": "c871f0ef-077f-8c9d-2cbb-fb16a3b08756"
+    }
+  ],
+  "outliner": [
+    {
+      "name": "bone",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "nbt": "{}",
+      "armAnimationEnabled": false,
+      "uuid": "774d6445-e0b1-7d2b-e1d0-477de0e78646",
+      "export": true,
+      "isOpen": true,
+      "locked": false,
+      "visibility": true,
+      "autouv": 0,
+      "children": [
+        "c871f0ef-077f-8c9d-2cbb-fb16a3b08756"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "path": "C:\\Users\\danie\\OneDrive\\Documents\\desktop\\assets\\minecraft\\textures\\block\\acacia_door_bottom.png",
+      "name": "acacia_door_bottom.png",
+      "folder": "",
+      "namespace": "",
+      "id": "0",
+      "particle": false,
+      "render_mode": "normal",
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "be9be453-f5b1-be8e-c11c-72eca571a525",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAT9JREFUOE9jzM/P/2//7ijDvnuvGUBAjI+bQYSfl+Ha4xd4+Qf+yTPofL7CwLgr1vo/SOWme08Yphx9yAhiHy3y+r/85FWc/HWxJv9f/GZmePPxM3kGgCz9wvCT4cqbbwyMINu+vv7IcOLNe4a67dfgLth7/QFe/svXryAGnC73///+2RuGO7//MGStOAk34OKzt3j5IEtB3gYb8PjZU7BpMBeAxLZfuo3CP/3wBdxAmKUoBoACBeYCkg1A9wJVDEB3MjYvgAIeHgvIgQhyAboG9DABuRpsgKmp6f9Kjf8M6GFAyABQwIP0MMKSMqFYQHcB3ABYqiLkAnQXwaIenhd+/GNgEBbnZ2BjZQVnoudP3uDlww2AJWWwLgYGBlAahwEeBnY4G1kcJghOyk2eWv+Rsy9MEpStsQGQWhgA5UYAv8OjBG0B9FkAAAAASUVORK5CYII="
+    }
+  ]
+}

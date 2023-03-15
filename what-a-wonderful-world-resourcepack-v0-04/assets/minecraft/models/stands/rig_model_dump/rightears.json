@@ -1,0 +1,41 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"0": "minecraft:stand/soft_and_wet/texture"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [6.4, 2.4, 7.6, 3], "texture": "#0"},
+				"east": {"uv": [6.4, 2.4, 7.6, 3.6], "texture": "#0"},
+				"south": {"uv": [6.4, 3, 7.6, 3.6], "texture": "#0"},
+				"west": {"uv": [6.4, 2.4, 7.6, 3.6], "texture": "#0"},
+				"up": {"uv": [6.4, 2.4, 7.6, 3.6], "texture": "#0"},
+				"down": {"uv": [6.4, 2.4, 7.6, 3.6], "texture": "#0"}
+			},
+			"to": [8.42, 4.54744, 8.23946],
+			"from": [6.82, 3.90744, 7.59946],
+			"rotation": {"angle": -45, "axis": "x", "origin": [9.8184, 4.6776, 7.02717]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"east": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"south": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"west": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"up": {"uv": [4, 0, 5, 1], "texture": "#0"},
+				"down": {"uv": [4, 0, 5, 1], "texture": "#0"}
+			},
+			"to": [8.58, 5.60976, 8.62357],
+			"from": [8.18, 4.40976, 7.42357],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.8184, 4.6776, 7.02717]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

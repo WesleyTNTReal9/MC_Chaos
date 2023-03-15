@@ -1,0 +1,102 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:stands/rig_model_dump/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:stands/rig_model_dump/leftears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:stands/rig_model_dump/rightears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:stands/rig_model_dump/eye5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:stands/rig_model_dump/eye4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:stands/rig_model_dump/body3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:stands/rig_model_dump/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:stands/rig_model_dump/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:stands/rig_model_dump/bottom7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:stands/rig_model_dump/top16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:stands/rig_model_dump/botom8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:stands/rig_model_dump/top14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "minecraft:stands/rig_model_dump/botom7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "minecraft:stands/rig_model_dump/top13"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"caedf326-aed1-e586-1096-33db43e06d3f": {
+				"name": "softandwet",
+				"usedIDs": [
+					[1, 14]
+				]
+			}
+		}
+	}
+}
